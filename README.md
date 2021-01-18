@@ -17,11 +17,12 @@ https://web.telegram.org/
 ```
 
 #### CRIAR O BOT
-	- Se inscreva no Telegram (Você pode usar o cliente web, desktop ou mobile)
-	- Abra o aplicativo ou acesse o website
-	- Pesquise por @BotFather e inicie a conversa
-	- Envie o comanndo /newbot e execute as instruções
-	- Armazene o token enviado pelo @BotFather. Será usado no código.
+	
+- Se inscreva no Telegram (Você pode usar o cliente web, desktop ou mobile)
+- Abra o aplicativo ou acesse o website
+- Pesquise por @BotFather e inicie a conversa
+- Envie o comanndo /newbot e execute as instruções
+- Armazene o token enviado pelo @BotFather. Será usado no código.
 
 #### BIBLIOTECAS UTILIZADAS
 
