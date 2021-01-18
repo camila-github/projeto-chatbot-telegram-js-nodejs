@@ -17,12 +17,13 @@ https://web.telegram.org/
 ```
 
 #### CRIAR O BOT
-	
+```
 - Se inscreva no Telegram (Você pode usar o cliente web, desktop ou mobile)
 - Abra o aplicativo ou acesse o website
 - Pesquise por @BotFather e inicie a conversa
 - Envie o comanndo /newbot e execute as instruções
 - Armazene o token enviado pelo @BotFather. Será usado no código.
+```
 
 #### BIBLIOTECAS UTILIZADAS
 
@@ -55,8 +56,10 @@ https://console.cloud.google.com/iam-admin/serviceaccounts
 ```
 
 #### EXECUTAR O PROJETO
+```
 - Efetuar o clone do repositório em uma pasta do sistema operacional
 - Executar o comando `npm install` dentro da pasta raiz do projeto para baixar as dependências
 - Substituir os arquivos de credenciais do agent e do youtube
 - Executar o comando `npm start` dentro da pasta raiz do projeto para executar o código
+```
 
