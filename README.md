@@ -51,7 +51,8 @@ https://console.developers.google.com/start/api?id=youtube
 ```
 
 Dialogflow. 
-Detalhe:  Lembrar de ir na conta de serviço criada pelo Dialogflow e gerar seu arquivo json com as credenciais
+O Dialogflow é uma plataforma que ajuda na construção de chatbots. A plataforma é um dos serviços de Cloud da Google.
+Detalhe:  Lembrar de ir na conta de serviço criada pelo Dialogflow e gerar seu arquivo json com as credenciais.
 ```
 https://console.cloud.google.com/iam-admin/serviceaccounts 
 ```
