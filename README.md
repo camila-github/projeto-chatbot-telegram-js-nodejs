@@ -49,10 +49,10 @@ Youtube
 https://console.developers.google.com/start/api?id=youtube
 ```
 
-Dialogflow
-Detalhe:  de ir na conta de serviço criada pelo Dialogflow e gerar seu arquivo json com as credenciais
+Dialogflow. 
+Detalhe:  Lembrar de ir na conta de serviço criada pelo Dialogflow e gerar seu arquivo json com as credenciais
 ```
-https://console.cloud.google.com/iam-admin/serviceaccounts 
+# https://console.cloud.google.com/iam-admin/serviceaccounts 
 ```
 
 #### EXECUTAR O PROJETO
