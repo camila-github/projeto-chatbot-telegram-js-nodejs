@@ -1,7 +1,7 @@
 ## Projeto: Criação de chatbot no Telegram com JavaScript + NodeJS
 
 - O intuito do projeto é criar um Chatbot no Telegram utilizando JavaScript e NodeJS. O desenvolvimento de um Chatbot, será criar um programa, simulando uma conversa humana em um chat. Dessa forma, é possível automatizar tarefas repetitivas e burocráticas, como dúvidas frequentes, na forma de diálogo pré-definido entre o usuário e um 'robô'.
--
+
 - O projeto publicado é referente ao treinamento do Curso BootCamp Desenvolvedor NodeJS da Digital Innovation One [https://digitalinnovation.one](https://digitalinnovation.one).
 
 ## Ferramentas Utilizadas
