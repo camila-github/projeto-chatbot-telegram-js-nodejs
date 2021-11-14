@@ -20,25 +20,25 @@
 
 ##### BIBLIOTECAS UTILIZADAS
 
-- youtube-node 
+- youtube-node :
   Sua finalidade é fazer buscas no youtube.
   [https://www.npmjs.com/package/youtube-node](https://www.npmjs.com/package/youtube-node)
 
-- dialogflow 
+- dialogflow :
   Comunicação com o dialogflow
   [https://www.npmjs.com/package/dialogflow](https://www.npmjs.com/package/dialogflow)
 
-- node-telegram-bot-api
+- node-telegram-bot-api :
   utilizado para comunicação com o Telegram
   [https://www.npmjs.com/package/node-telegram-bot-api](https://www.npmjs.com/package/node-telegram-bot-api)
 
 ##### GERAR CREDENCIAIS 
 
-- Youtube
+- Youtube :
   [https://console.developers.google.com/start/api?id=youtube](https://console.developers.google.com/start/api?id=youtube)
 
 
-- Dialogflow. 
+- Dialogflow :
   O Dialogflow é uma plataforma que ajuda na construção de chatbots. A plataforma é um dos serviços de Cloud da Google.
   Detalhe:  Lembrar de ir na conta de serviço criada pelo Dialogflow e gerar seu arquivo json com as credenciais.
   [https://console.cloud.google.com/iam-admin/serviceaccounts](https://console.cloud.google.com/iam-admin/serviceaccounts)
